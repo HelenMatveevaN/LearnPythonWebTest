@@ -1,0 +1,10 @@
+
+Хорошие туториалы по веб-разработке:
+https://www.w3schools.com/html/html_form_input_types.asp
+
+форма - это просто html-разметка
+
+(env) MacBook-Air-Helen:learn_web helenmatveeva$ pip install flask-login
+
+(env) MacBook-Air-Helen:learn_web helenmatveeva$ python create_db.py 
+- чтобы создать в БД табличку с нашим пользователем
